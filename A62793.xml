@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of England, who are in place to do justice, and to break the bonds of the oppressed a narrative of the cruel and unjust sufferings of the people of God in the nation of Ireland called Quakers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62793</idno>
+            <idno type="STC">Wing T1581</idno>
+            <idno type="STC">ESTC R31971</idno>
+            <idno type="EEBO-CITATION">12283312</idno>
+            <idno type="OCLC">ocm 12283312</idno>
+            <idno type="VID">58792</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62793)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58792)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1515:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of England, who are in place to do justice, and to break the bonds of the oppressed a narrative of the cruel and unjust sufferings of the people of God in the nation of Ireland called Quakers.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Society of Friends --  History --  17th century.</term>
+               <term>Church and state --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58792:1"/>
+            <pb facs="tcp:58792:1" rendition="simple:additions"/>
+            <p>TO THE PARLIAMENT OF ENGLAND, Who are in place to do Juſtice, and to break the Bonds of the Oppreſſed.</p>
+            <p>A NARRATIVE OF THE Cruel, and Unjuſt Sufferings of the People of God in the Nation of <hi>IRELAND,</hi> CALLED QUAKERS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the Bull and Mouth near <hi>Alderſgate,</hi> 1659.</p>
+            <pb facs="tcp:58792:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:58792:2"/>
+            <p>
+               <hi>EDward Braifield</hi> (a Souldier in the Deputies Troops) for ſpeaking to the people in the Steeple-houſe at <hi>King-ſaile,</hi> (after the Teacher had ended) ſaying, <hi>Oh, what would a man give in exchange for his ſoul?</hi> was ſent to priſon by <hi>Rob. South<g ref="char:EOLhyphen"/>well</hi> for ſix moneths, and whiped at the houſe of Correction in <hi>Bandon-bridge.</hi>
+            </p>
+            <p>
+               <hi>Daniel Maſſey</hi> a Souldier, for ſpeaking a few words to a Prieſt in the Steeple-houſe at <hi>King-ſail;</hi> after he had ended, was impriſoned ten times<hi>:</hi> And for not paying towards the Repair of the Steeple-houſe, had his goods taken from him, to the value of twenty ſhillings.</p>
+            <p>
+               <hi>Sarah Maſſey,</hi> for ſpeaking a few words in her own ſhop to the Prieſt and People, was ſent to priſon, and there kept many dayes.</p>
+            <p>
+               <hi>Rob. Malin</hi> a ſouldier, for ſpeaking a few words to the Prieſt and people in <hi>Cork,</hi> was impriſoned by the Mayor, and afterwards for the like thing was ſet in the Stocks at <hi>Bandon-bridge.</hi>
+            </p>
+            <p>
+               <hi>Edw. Cook,</hi> Cornet to the Protectors own Troop, was put out of the armie for Owning the Truth; and afterwards for ſpeaking to a Prieſt at <hi>Cork,</hi> was almoſt murthered, and for ſpeaking a few words in a Steeple-houſe at <hi>Dublin,</hi> was impriſoned near a quarter of a year by the Mayor there: And <hi>Rob. Southwell</hi> of <hi>Kingſail</hi> meeting him in the ſtreet there, ſent him to priſon, and no cauſe given; and had his Braſſe and Pewter taken from him (worth about thirty ſhillings) for not paying to the Repair of the Steeple-houſe in <hi>Bandon?</hi> and he being an Inhabitant of that Town, at whoſe houſe the ſervants of the Lord <hi>Meet</hi> together every Firſt day, hath his windowes broken by the people of that Town, and great ſtones thrown in thereat; and had one of his Children wounded, ſo that he and his Family are in danger of their lives.</p>
+            <p>
+               <hi>Lucretia Cook,</hi> for ſpeaking a few words to the Prieſt and people at <hi>King-ſail,</hi> was impriſoned by <hi>Will. Hovel;</hi> and a<g ref="char:EOLhyphen"/>gain was impriſoned there, for deſiring to ſpeak to the chief Magiſtrate there about Priſoners. And there for ſpeak<g ref="char:EOLhyphen"/>ing a few words to one of <hi>Inchequins</hi> Prieſts, was impriſoned
+<pb n="2" facs="tcp:58792:3"/>
+at <hi>Cork,</hi> by <hi>Hen. Bathurſt,</hi> and afterwards ſent to the houſe of Correction for two moneths: And for ſpeaking a few words in the Steeple-houſe at <hi>Limerick,</hi> was impriſoned by the Mayor there; And for the like thing at <hi>Dublin,</hi> was by the Mayor there committed to <hi>New-gate.</hi>
+            </p>
+            <p>
+               <hi>Ananias Kelloe,</hi> and <hi>John Moor,</hi> Souldiers of Major <hi>Hod<g ref="char:EOLhyphen"/>dens</hi> Company, were put out of the Army, for Owning the Truth, and for ſetting up a paper againſt Drunkenneſs, and refuſing to go to the Steeple-houſe.</p>
+            <p>
+               <hi>Evan Davis</hi> of <hi>Bandon,</hi> for endeavoring to ſpeak a few words in the Steeple-houſe at <hi>King-ſail,</hi> after the Prieſt had done, was impriſoned, and ſet upon a horſe with his face towards the horſe tail, and ſo carried through the ſtreet, with a pa<g ref="char:EOLhyphen"/>per ſewed on his hat, written in great letters.</p>
+            <p>
+               <hi>Fran. Smith</hi> was baniſhed out of <hi>Ireland,</hi> for Truths ſake, by <hi>Will. Hovels</hi> own order, chief Magiſtrate of <hi>King-ſail.</hi>
+            </p>
+            <p>
+               <hi>John Butler,</hi> for ſpeaking a few words in the <hi>Grave-Yard</hi> at <hi>Bandon,</hi> was impriſoned there; And another time was put in priſon at <hi>Kingſaile;</hi> for onely viſiting Priſoners.</p>
+            <p>Two <hi>Souldiers</hi> belonging to <hi>Kingſaile Fort,</hi> for ſpeaking to a <hi>Prieſt,</hi> were put into a Hog-ſtie.</p>
+            <p>
+               <hi>James Atteridge,</hi> for ſpeaking a few words in the <hi>Steeple-houſe</hi> at <hi>Bandon,</hi> was impriſoned there; And another time for ſpeaking a few words to the People at <hi>Corke</hi> (before their worſhip began) was impriſoned, and after ſent to the houſe of Correction at <hi>Bandon,</hi> where he was twice whipped, and received Eighty ſtripes, and when he was let out of the whipping ſtocks, he kneeled down and prayed, and the Goa<g ref="char:EOLhyphen"/>ler whipt him till he aroſe from prayers; and for asking the <hi>Prieſt</hi> a queſtion (with his Bible in his hand) was put into the houſe of Correction two Moneths and there whipped.</p>
+            <p>
+               <hi>Mary Sicklemore,</hi> had a <hi>Cowe</hi> worth three pound taken from her, for not paying tythe to the value of four ſhilling ſix pence: And another time had a <hi>Cowe</hi> worth two pound ſixteen ſhillings, taken from her, by the <hi>Sheriffs</hi> order, for the value of four ſhillings demanded for Tyths.</p>
+            <p>
+               <hi>Rob. Sandham,</hi> becauſe for conſcience ſake he could not Swear, was fined, by <hi>Henry Bathurſt,</hi> fourty ſhillings, and for
+<pb n="3" facs="tcp:58792:3"/>
+the ſame had a horſe taken from him, worth four pound ten ſhillings.</p>
+            <p>
+               <hi>Thomas Alio,</hi> becauſe for conſcience ſake he could not Swear, was fined by <hi>Henry Bathurſt</hi> two pounds, and for the ſame had his <hi>Horſe</hi> taken from him worth four pounds.</p>
+            <p>
+               <hi>Thomas Shawe,</hi> for propounding two Queſtions to a <hi>Prieſt</hi> in the <hi>Steeple-houſe</hi> at <hi>Bandon Bridge,</hi> was impriſoned nine-weekes in <hi>Corke,</hi> and after kept ſeven weekes more in <hi>Bride<g ref="char:EOLhyphen"/>well,</hi> where he received about thirty ſtripes.</p>
+            <p>
+               <hi>William Morris</hi> (late a Capt. in the Army) for owning Truth, was put out of the Army: And for appearing in the in the Court at <hi>Bandon</hi> (being warned thither) with his hat on his head, was committed to Bridewell by <hi>Henry Bathurſt:</hi> and for ſpeaking a few words to the People and Souldiers in the Guard-houſe at <hi>Mount Melick,</hi> was put in<g ref="char:EOLhyphen"/>to the Stocks there, and afterwards committed to the Goale by <hi>Walter Willingford</hi> till the next Seſſions.</p>
+            <p>
+               <hi>Thomas Michell</hi> (late a Lt. in the Army) for ſpeaking to the <hi>Mayor</hi> of <hi>Corke,</hi> was kicked and abuſed, and ſent to Priſon by the ſaid <hi>Mayor:</hi> And for ſpeaking a few words in the <hi>Steeple-houſe</hi> at <hi>Corke,</hi> was kept in Goale five weekes.</p>
+            <p>
+               <hi>Suſanna Michell,</hi> for ſpeaking to a <hi>Prie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> in the <hi>Steeple-houſe</hi> at <hi>Corke,</hi> was impriſoned by the <hi>Mayor.</hi>
+            </p>
+            <p>
+               <hi>Jane Tadpoole</hi> for ſpeaking to the <hi>Mayor</hi> of <hi>Corke</hi> in be<g ref="char:EOLhyphen"/>half of Priſoners, was by the ſaid <hi>Mayor</hi> impriſoned about one Moneth,</p>
+            <p>
+               <hi>Francis Boſtocke,</hi> for ſpeaking a few words to a <hi>Prieſt</hi> in <hi>Corke,</hi> was impriſoned by the <hi>Mayors</hi> Order.</p>
+            <p>
+               <hi>Mary Gregory,</hi> for ſpeaking a few words in the <hi>Steeple-houſe</hi> at <hi>Corke,</hi> was impriſoned by the <hi>Mayor</hi> there.</p>
+            <p>
+               <hi>Phylip Dymond</hi> for ſpeaking to a <hi>Prieſt</hi> in <hi>Corke,</hi> had his Cloak torne from his back, and his hair from his head: And for ſpeaking a few words in the <hi>Steeple-houſe</hi> at <hi>Kingſaile</hi> (after the <hi>Prieſt</hi> had ended, was ſent to Priſon and received many ſtroakes: And for ſpeaking a few words in the <hi>Steeple-houſe</hi> at <hi>Limericke</hi> was impriſoned by the <hi>Mayor's</hi> order till the next Seſſions there: And becauſe for conſcience ſake he could not Swear, was fined, and had the value of about twenty ſhillings taken out of his ſhop.</p>
+            <pb n="4" facs="tcp:58792:4"/>
+            <p>
+               <hi>Alexander Rich,</hi> for the Truths ſake, was put out of his place; as Wayter to the Cuſtome houſe in <hi>Youghall.</hi>
+            </p>
+            <p>
+               <hi>Michaell Richards,</hi> for coming into the Court (with his hat on his heed) at <hi>Corke,</hi> as a witneſs for his Maſter, who was then at the Barr, was fined twenty pound by <hi>John Biſſe</hi> Judge of the Aſſize then.</p>
+            <p>
+               <hi>John Conor</hi> paſſing the Street in <hi>Corke</hi> towards a meeting was committed to the Guard: And for ſpeaking a few words in the <hi>Steeple-houſe</hi> at <hi>Waterford,</hi> was committed by one <hi>Vaughan</hi> called a <hi>Juſtice,</hi> and examined after by <hi>George Cauldron</hi> then <hi>Mayor,</hi> and kept in Priſon nine Moneths.</p>
+            <p>
+               <hi>Stev. Harris,</hi> for ſpeaking a few words to the <hi>Mayor</hi> of <hi>Cork</hi> was impriſoned by him, who commanded the Goaler to put the biggeſt Iron bolts on him, which was done: And for reading a Paper in the Street, (which contained words of Soberneſs &amp; Truth) was by the ſaid <hi>Mayor.</hi> kept ſix moneths in Priſon: And for ſpeaking a few words in the <hi>Steeple-houſe</hi> there, was kept in Priſon about ſix weekes.</p>
+            <p>
+               <hi>John Browne,</hi> for owning the Truth, was put out of his place, a Mr. <hi>Gunner</hi> in <hi>Youghall</hi> by Col. <hi>Saunders:</hi> And for ſpeaking a few words in the <hi>Steeple-houſe</hi> there, was ſent to Priſon by <hi>Nicho. Stout Bayliffe.</hi>
+            </p>
+            <p>
+               <hi>Thomas Carter,</hi> paſſing the Streets in <hi>Youghall</hi> from a Meeting, was ſet in the Stocks.</p>
+            <p>
+               <hi>John Stanton,</hi> for ſpeaking a few words in the <hi>Steeple-houſe</hi> at <hi>Youghall,</hi> was impriſoned by the <hi>Mayor</hi> there: And for the like matter was buffitted, and haled by the hair of the head, and committed to Priſon till the next Seſſions.</p>
+            <p>
+               <hi>Edward Erberry,</hi> for ſpeaking a few words in the <hi>Steeple-houſe</hi> at <hi>Youghall,</hi> was ſent to the <hi>Marſhalls.</hi>
+            </p>
+            <p>
+               <hi>Sarah Chivers,</hi> for ſpeaking in the Steeple-houſe at <hi>Youghall,</hi> was ſent to the Marſhals.</p>
+            <p>
+               <hi>Thomas Loe, Will. Blanch, John Smith,</hi> and diverſe others of the People of God being in a peaceable Meeting in <hi>Youg<g ref="char:EOLhyphen"/>hall,</hi> were violently haled out of the Meeting, by order of <hi>John Netle</hi> Mayor then, and committed to Priſon.</p>
+            <p>
+               <hi>Edw. Lawndy,</hi> for ſpeaking a few words in the Steeple-houſe at <hi>Youghall</hi> to the Prieſt and people, was by force
+<pb n="5" facs="tcp:58792:4"/>
+thruſt out of the door, by <hi>John Hancock;</hi> and having Meetings in his houſe, had much hurt done to the windows by ſtones, being throwed, with hazard to himſelf and Family.</p>
+            <p>
+               <hi>Rob. Turner,</hi> for ſpeaking a few words in the Steeple-houſe at <hi>Bandon,</hi> (after the Prieſt had done) had his Hat taken away, and was beaten: And for ſpeaking a few words in the Steeple-houſe at <hi>Dublin,</hi> was very much abuſed, had his coat taken from him in the ſaid place, and not reſtored to him again: And for asking a Queſtion of a Prieſt in <hi>Dublin,</hi> was ſent to Bridewell, and after kept three moneths in pri<g ref="char:EOLhyphen"/>ſon, was put into a Cell, or Dungeon, a very noiſome place, graves being over his head, and under his feet: And being in a Meeting at <hi>London-Derry,</hi> was violently haled there<g ref="char:EOLhyphen"/>out, and drawn along the ſtreet by the Armes and Legs, (the Mayor of that City then preſent, and helped with his own hands) and put him out of the ſaid town; and two dayes after hailed him as before, and one with a Knif in his hand, threatned to cut off his Members, and turned him out again, and tyed him back and legs on a Horſes bare back, with a haire rope, and led him about as their ſport, at their pleaſure.</p>
+            <p>Major <hi>Hoddens</hi> wife, for ſpeaking to a Prieſt in the Steeple-houſe at <hi>King-ſail</hi> was put into Priſon.</p>
+            <p>In the year 1656. Col. <hi>Henry Ingoldsby</hi> ſet forth a Pro<g ref="char:EOLhyphen"/>clamation in <hi>Limerick,</hi> where he was and is Governour, that no Inhabitant of that City ſhould receive any Qua<g ref="char:EOLhyphen"/>ker into their houſe, upon Penalty of being turned out of that Town: <hi>Richard Pierce</hi> of <hi>Limerick</hi> Apothecary, (formerly of the Army) received a friend of his into his houſe, one <hi>John Brown</hi> of <hi>Youghall,</hi> who came thither to receive Moneys due to him from a Merchant in that Town, to the ſum of about ſixty pounds; but the ſaid Col. <hi>Ingoldsby</hi> iſſued his Warrant for the ſaid <hi>John Brown</hi> to ſend him from Conſtable to Conſtable to <hi>Youghal,</hi> with<g ref="char:EOLhyphen"/>out being brought before him or any other Magiſtrate to be examined, and ſo would not ſuffer him to do his ſaid buſineſs, and ſo the ſaid <hi>Richard Pierce</hi> for the entertain<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:58792:5"/>
+his Friend (a lawful Subject) had by Col. <hi>Ingoldsbyes</hi> Order, ſeveral goods taken from him to the value of five pounds.</p>
+            <p>
+               <hi>James Sicklemore</hi> (late a Capt. in the Armie) and <hi>John Perrot</hi> being in a peaceable meeting in <hi>Limerick,</hi> were ha<g ref="char:EOLhyphen"/>led thereout by Col. <hi>Ingoldsbyes</hi> Order, with a guard of Souldiers committed to Priſon, and after baniſhed out of the County. And <hi>John Perrot</hi> was again haled out of a meeting by the ſaid Col. <hi>Ingoldsbyes</hi> Order, and commit<g ref="char:EOLhyphen"/>ted to Priſon for many days, and after ſent above 80 miles to <hi>Dublin,</hi> where he endured Impriſonment a long ſeaſon: And for ſpeaking to a Prieſt in the Steeple-houſe in <hi>Water<g ref="char:EOLhyphen"/>ford,</hi> was much beaten, his head broken, and his blood drawn.</p>
+            <p>
+               <hi>Thomas Phelps</hi> and ſeveral of the people of God, being met together on a firſt day of the week in <hi>Limerick,</hi> were (by Col. <hi>Ingoldsbyes</hi> order) with a guard of Souldiers vio<g ref="char:EOLhyphen"/>lently pulled thereout, and committed priſoners to the Main-guard, and afterwards were brought before the ſaid Colonel, who himſelf beat one Friend, and uttered threat<g ref="char:EOLhyphen"/>ning words to the Inhabitants.</p>
+            <p>
+               <hi>Barbara Blagdon</hi> going along the ſtreets of <hi>Limerick</hi> was apprehended by Col. <hi>Ingoldsbyes</hi> Souldiers, and put into priſon, (and without any examination) was baniſhed the City; and one <hi>John Luffe</hi> ſpeaking to the ſaid Col. to ex<g ref="char:EOLhyphen"/>amine the matter before ſhe was baniſhed; the ſaid Col. being then at Bowles (as his uſual manner was) did kick and beat him, and ſaid, <hi>This rogue hath bewitched my Bowls.</hi> And the ſaid <hi>Barbara</hi> for ſpeaking in the <hi>Steeple-houſe</hi> at <hi>Youghall,</hi> was impriſoned by the <hi>Mayor</hi> there, and after put out of that town as a Vagabond.</p>
+            <p>
+               <hi>Sarah Bennet,</hi> being in a Meeting at <hi>Limerick,</hi> was haled thereout, put into priſon, and there ill uſed; the Governour (Col. <hi>Ingoldsby)</hi> ordering that none ſhould viſit her in the Priſon, nor have neceſſary ſupply of food and beding brought to her by her friends, nor yet pen ink and paper to make known her want, or the want of any other friend then in bonds with her, and afterward ſhe and <hi>Barbara Blagdon</hi>
+               <pb n="7" facs="tcp:58792:5"/>
+were ſent towards <hi>Corke</hi> (as Vagabonds) from Conſtable to Conſtable, to be baniſhed the land.</p>
+            <p>
+               <hi>William Ames,</hi> for being in a peaceable meeting at <hi>Lime<g ref="char:EOLhyphen"/>rick,</hi> was haled thereout, and impriſoned: And after for be<g ref="char:EOLhyphen"/>ing at the <hi>Steeple-houſe</hi> there, was again put into Priſon, and for Writing to the Govern. (Col. <hi>Ingoldesby)</hi> was by him cauſed to be brought out of the Priſon into the Main-Guard, and there with his own hand did beat and ſtrick him to the ground, and kicked him, and cauſed him to be tied neck and heels in the ſtreet, the bloud running down from him as he lay tyed; and at the ſame time did beat <hi>William Blanch,</hi> and put him in Priſon ſeverall dayes, for viſiting his friends then in Priſon there.</p>
+            <p>
+               <hi>Mary Peirce,</hi> was twice impriſoned for ſpeaking a few words in the Steeple-houſe at <hi>Limericke,</hi> by the <hi>Mayor</hi> there.</p>
+            <p>
+               <hi>Thomas Phelps</hi> of <hi>Limerick,</hi> had taken from him by <hi>Major Ralph Willſon</hi> (late Mayor there) ſeventy barrells of Salt, becauſe for conſcience ſake, he did not Swear to that Cor<g ref="char:EOLhyphen"/>poration, though he offered to prove his faithfull ſervice to the Parliament: And he had his houſe broken open and rifled with a Guard of Sould. from the Governour (Col. <hi>Ingoldesby)</hi> which Guard by the ſame Order riflled the houſes of <hi>Richard Piercy</hi> and <hi>Thomas Holme,</hi> and took away what books and papers they pleaſed.</p>
+            <p>
+               <hi>John Stubs</hi> and <hi>William Shaw,</hi> for ſpeaking a few words in the Steeple-houſe at <hi>Galoway,</hi> were committed to the <hi>Marſhalls</hi> for ſeverall weeks: and the ſaid <hi>Jo. Stubs</hi> was taken out of a meeting in <hi>Lemericke,</hi> and impriſoned.</p>
+            <p>
+               <hi>Humphry Norton</hi> and <hi>William Shaw</hi> (with ſeverall others) being in a peaceable Meeting in <hi>Galoway,</hi> where (by Colo. <hi>Sadlers</hi> order Govern. there) with a Guard of Sould. vio<g ref="char:EOLhyphen"/>lently taken thereout, and brake the Meeting, and turned them out of the City, and would not ſuffer them to go in for their horſes.</p>
+            <p>
+               <hi>Samuell Newton,</hi> travailing towards a meeting at <hi>Water<g ref="char:EOLhyphen"/>ford,</hi> was by Major <hi>Redmons</hi> order ſtopt, and kept priſoner three dayes.</p>
+            <p>
+               <hi>Charles Collins, William Blanch, Edward Cooke,</hi> and di<g ref="char:EOLhyphen"/>vers
+<pb n="8" facs="tcp:58792:6"/>
+others of the Servants of the Lord, being at a meet-at <hi>Caſhell,</hi> were violenty laid on, and the Meeting broken with a Guard of Sould. by order from Col. <hi>Lehunt,</hi> and put ſome of the <hi>friends</hi> there in Priſon, and forcibly turn<g ref="char:EOLhyphen"/>ed out others out of the Towne.</p>
+            <p>
+               <hi>Thomas Loe, Thomas Holme, William Blanch,</hi> and <hi>John Wrenn,</hi> being in <hi>Caſhell</hi> on their Journey, were apprehen<g ref="char:EOLhyphen"/>ded by <hi>Colo. Lehunts</hi> order, and brought before him, and he commanded the Sould. (violently) to turne them out out of the town, and to cut their pates, three of them were not ſuffered to go into the town again for their horſes.</p>
+            <p>
+               <hi>Richard Roper,</hi> for asking the Prieſt a Queſtion in the Steeple-houſe at <hi>Waterford,</hi> was haled to priſon, and there kept fifteen weeks, at the will of <hi>Thomas Wats</hi> and <hi>John Horton,</hi> the Goaler and others.</p>
+            <p>
+               <hi>Richard Waller</hi> at the ſame time, only for being at the ſaid Steeple-houſe, and not ſpeaking one word there, was alſo impriſoned fifteen weeks, by the ſaid <hi>Thomas Wats</hi> Mayor there, and <hi>John Horton</hi> Recorder.</p>
+            <p>
+               <hi>William Blanch</hi> (late of the Army) had taken from him his whole Plough of Horſes worth about twenty pounds, by the Sheriffs of the City of <hi>Waterford,</hi> and not any of them reſtored to him; and this becauſe for Conſcience ſake, he could not pay <hi>Tythes</hi> demanded, to the value of two pound eight ſhillings.</p>
+            <p>
+               <hi>Mary Window,</hi> for ſpeaking a few words to the Prieſt in the Steeple-houſe at <hi>Waterford,</hi> was impriſoned by the ſaid <hi>Thomas Wats</hi> and <hi>John Horton</hi> during their pleaſure.</p>
+            <p>
+               <hi>Humphrey Norton</hi> and <hi>William Shaw,</hi> being in a peace<g ref="char:EOLhyphen"/>able meeting at <hi>Wexford,</hi> were (by a Lieutenant and a guard of Souldiers) taken thereout, and by force brought into the Steeple-houſe, and thence committed to Goal by Lieutenant Col. <hi>Bret</hi> until the next Aſſizes.</p>
+            <p>
+               <hi>John Radman</hi> of <hi>New-Roſſe</hi> for keeping on his Hat, be<g ref="char:EOLhyphen"/>fore Judge <hi>Lowther,</hi> when called before him; was impri<g ref="char:EOLhyphen"/>ſoned three moneths, and forced from his calling out of the ſaid Town by the ſame Judges Order.</p>
+            <p>
+               <hi>Charles Collins</hi> (late a Lieutenant in the Armie) was fi<g ref="char:EOLhyphen"/>ned
+<pb n="9" facs="tcp:58792:6"/>
+by Judge <hi>Lowther</hi> in the ſum of twenty pounds, becauſe for Conſcience-ſake he could not ſwear, and reſpect mens perſons, by putting off his hat.</p>
+            <p>
+               <hi>Thomas Holme</hi> (late a Captain in the Army) <hi>Charles Col<g ref="char:EOLhyphen"/>lins,</hi> and ſeveral of the Lords people, being in a peace<g ref="char:EOLhyphen"/>able meeting at <hi>Wexford,</hi> had their meeting forcibly bro<g ref="char:EOLhyphen"/>ken, and many of them violently haled and turned out of the Town, by order from <hi>Edward Withers</hi> Mayor then.</p>
+            <p>
+               <hi>Charles Collins, Robert Turner</hi> and ſeveral of the Lords people, being in a peaceable meeting at <hi>New-Roſſe,</hi> had their meeting broken up, by order of <hi>John Puckle</hi> Gover<g ref="char:EOLhyphen"/>nour there, and cruelly and forcibly haled, and put into a Boat upon the great River many of the ſaid people, and took away the Oares, leaving them for ſeveral hours there, to the endangering bodily health.</p>
+            <p>
+               <hi>James Becket</hi> of <hi>New-Roſs</hi> had goods to the worth of thirteen ſhillings taken out of his houſe, and ſold in the Market-place, by order from <hi>John Puckle</hi> and <hi>Thomas Scot,</hi> becauſe for Conſcience ſake, he could not go to the Steeple-houſe Worſhip.</p>
+            <p>
+               <hi>Richard Pool</hi> was put out of the Army for his love to the Truth, and for ſpeaking a few words to the people in a Steeple-houſe at <hi>Wexford,</hi> was impriſoned by the Mayor there till the next Seſſions; and for ſpeaking to a Prieſt in the Steeple-houſe at <hi>Waterford,</hi> was impriſoned by <hi>Thomas Watts</hi> there.</p>
+            <p>
+               <hi>James Atteridge,</hi> for ſpeaking a few words to the people in the ſtreet in <hi>New Roſs,</hi> was impriſoned till the then next Seſſions, by <hi>John Puckle,</hi> and for ſpeaking to the people in the guard-houſe at <hi>Melick,</hi> was put into the ſtocks, and after committed to the Goal, till the next Seſ<g ref="char:EOLhyphen"/>ſions, by <hi>Walter Wallingford.</hi>
+            </p>
+            <p>
+               <hi>Edward Lord</hi> for deſiring the Prieſt to prove by Scrip<g ref="char:EOLhyphen"/>ture what he had ſaid, was alſo at the ſame time put into the ſtocks, and impriſoned by <hi>Walter Wallingford,</hi> and for ſpeaking to the people in the Steeple-houſe at <hi>New-Roſs</hi> af<g ref="char:EOLhyphen"/>ter the Prieſt had ended, was committed to the Goal (by <hi>John Puckle)</hi> and there remains in bonds.
+<pb n="10" facs="tcp:58792:7"/>
+               <hi>Francis Randall</hi> was impriſoned eight weeks, becauſe for conſcience ſake, he could not pay Tythe, and had his goods taken from him, during his impriſonment.</p>
+            <p>
+               <hi>Samuell Adams, Oliver Hopley,</hi> and others, travelling towards a Meeting at <hi>Waterford,</hi> were ſtopped in the high<g ref="char:EOLhyphen"/>way, by <hi>Major Redman,</hi> and his Souldiers, who drew their Swords, tore the freinds cloaths, and much abuſed them: And the ſaid <hi>Samuell Adams</hi> paſſing on the road near <hi>Ca<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lough,</hi> met with a man called Lord of <hi>Barry-Moore,</hi> who drew his Piſtoll and pre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ented it at his face, and ſmote him on the head and face, till he ſpilt much of his blood, and called him rogue, and Quaker.</p>
+            <p>
+               <hi>William Haukins,</hi> for ſpeaking a few words as the people were paſſing out of a Steeple-houſe in <hi>Dublin,</hi> was put into Newgate for ten weeks, by the Mayor there.</p>
+            <p>
+               <hi>Samuell Claridge, Samuell Newton,</hi> and others, had about five pounds worth of Books taken away by the Officer of the Cuſtome houſe, in <hi>Dublin,</hi> and ſtill detained; though it hath been laid before the Deputy and Counſel.</p>
+            <p>
+               <hi>Elizabeth Gardiner</hi> of <hi>Dublin,</hi> had taken from her three pewter diſhes worth nine ſhillings, by <hi>Will. Taylor,</hi> and <hi>Tho. Alvin,</hi> becauſe for Conſcience ſake ſhe could not pay ſix ſhillings, demanded for the repair of <hi>Patrick</hi> Steeple-houſe.</p>
+            <p>
+               <hi>Elizabeth Jones</hi> for ſpeaking a few words in the Steeple-houſe at <hi>Dublin,</hi> was committed to Bridewell, and from thence ſent to Newgate.</p>
+            <p>
+               <hi>John Boran,</hi> and <hi>Samuell Claridge</hi> paſſing quietly in the Streets in <hi>Dublin,</hi> were apprehended by the Mayor there, and kept priſoners in Newgate ſeven daies.</p>
+            <p>
+               <hi>Richard Jackſon,</hi> becauſe for Conſcience ſake he could not pay Tythe, to the value of nine ſhillings, demanded for eight Cows and nine Lambs; had taken from him a Cow worth two pound ten ſhillings, by <hi>Jacob Knolls.</hi>
+            </p>
+            <p>
+               <hi>William Parker</hi> had a Kittle taken from him (by the ſaid <hi>Jacob Knolls)</hi> worth one pound, for eleven ſhillings de<g ref="char:EOLhyphen"/>manded for Tythe.</p>
+            <p>
+               <hi>John Thompſon</hi> had goods taken away from him worth twenty ſhillings, by the ſaid <hi>Jacob Knolls,</hi> for five ſhillings demanded for Tythe.</p>
+            <pb n="11" facs="tcp:58792:7"/>
+            <p>
+               <hi>William Moore</hi> had goods taken from him to the value of two pound, for 8 ſhillings 4 pence demanded for Tythe, by the ſaid <hi>Jacob Knolls;</hi> ſo that the ſaid <hi>J. K.</hi> for one pound 13 ſhillings demanded for Tythe, hath taken 6 pound 18 ſhil.</p>
+            <p>
+               <hi>William</hi> and <hi>John Edmonſon</hi> for fifteen ſhillings, demand<g ref="char:EOLhyphen"/>ed of them for Tythe, had a Mare and a Colt taken from them, worth five pound, by <hi>Knogher,</hi> M<hi rend="sup">c</hi>. <hi>Daniel,</hi> who rent<g ref="char:EOLhyphen"/>ed the Tythe of <hi>Henry Waldrom:</hi> And the ſaid <hi>Waldrom</hi> ſued <hi>William Edmonſon</hi> for the ſame Tythe, and gained an Order; by which he took from the ſaid <hi>Edmonſon,</hi> one Horſe, bridle and ſadle, worth three pounds eighteen ſhil<g ref="char:EOLhyphen"/>lings; So here, <hi>William</hi> and <hi>John Edmonſon,</hi> for fifteen ſhil<g ref="char:EOLhyphen"/>lings demanded for Tythe, had taken from them the worth of eight bounds eight ſhillings in Goods.</p>
+            <p>
+               <hi>Francis Howgill,</hi> and <hi>Edward Borrough,</hi> in the year 1655. were apprehended by the <hi>Sheriff</hi> at <hi>Corke</hi> (by order of Councel at <hi>Dublin)</hi> and from thence (by Guards of Sould.) carryed from Garriſon to Garriſon, unto <hi>Dublin,</hi> and there committed to the Sergeant at Armes, and afterwards in a violent manner forced into a ſhip, and baniſhed the Nation; and all this onely for being called <hi>Quakers,</hi> and without any cauſe at all ſhewed them, or the tranſgreſſion of any law charged upon them. The particulars of the unjuſt pro<g ref="char:EOLhyphen"/>ceedings againſt them, would be large to relate; for they came into the Nation, &amp; were made a bleſſing to us, and the Lord wrought mightily by them to the turning of many from the darkneſſe to the Light, and from Satans power unto God; and their converſation and doctrine was ſuch as truely anſwered the witneſs of God in our Conſciences, to the Converting of us unto the right way of God; and we may praiſe the Lord on their behalf, who were made unto us Meſſengers of ſalvation, and inſtruments of great good unto many, in faithfull bearing the Teſtimony of the Lord amongſt us, to the glad tidings of our Souls. But ſuch was the rage of the Prieſts againſt them; that upon their lying complaints, by order from the then called Deputy <hi>H. Cromwell</hi> and his Counſell, were apprehended by the high Shreife in the City of <hi>Corke,</hi> and brought up by guards of horſe to <hi>Dublin,</hi> and brought to examination before
+<pb n="12" facs="tcp:58792:8"/>
+               <hi>Hen.</hi> and his Counſell; but no manner of Evill charged upon them; though they were committed to the Sergeant at Armes, and kept priſoners for many dayes, and unjuſtly ſent away contrary to all law and equity; and without any manner of reaſon ſhewne to them for ſuch proceedings; who could not be convinced of the breach of any law, nor any other thing charged againſt them ſaying that they were the ſervants of God, and thus for the name of <hi>Jeſus</hi> they were perſecuted by unrighteous men; contrary to the law of God and of theſe nations; likewiſe <hi>Ann Gold</hi> and <hi>Juliana Browne</hi> were alſo then baniſhed by order of the Counſell of <hi>Dublin,</hi> and <hi>James Lancaſter</hi> and ſeverall others of the Servants of the Lord were (by the ſaid coun<g ref="char:EOLhyphen"/>ſell) baniſhed and many Miniſters have been haled out of meetings, when they have been declaring the word of truth put into priſons and ſhamefully entreated.</p>
+            <p>
+               <hi>Mary Malin</hi> for ſpeaking to the People at <hi>Kingſaile,</hi> was impriſoned by the cheif Magiſtrate there <hi>Chriſtian Hitch<g ref="char:EOLhyphen"/>more</hi> of <hi>Kingſaile</hi> was put in Priſon, for ſeeing what the people were doing to <hi>Edward Cooke</hi> and his wife, as they were waiting to ſpeak with the Magiſtrate about priſoners.</p>
+            <p>The Juſtices of <hi>Drogadogh,</hi> hath put <hi>William Hakings</hi> a Friend in priſon there, and fined him forty pounds for ſaying, that Word was not the Scriptures that divided be<g ref="char:EOLhyphen"/>tween the joynts and the marrow, and words to that pur<g ref="char:EOLhyphen"/>poſe, and will let none come to viſit him but the Goa<g ref="char:EOLhyphen"/>ler; and the Officers of that Pariſh fetched <hi>Robert Evanes</hi> a Friend in <hi>Dublin</hi> from a friends houſe upon a firſt day, and made him go to Saint <hi>Patricks</hi> Church, and when he came there and ſpoke they put him in priſon, and ſuch work they make in <hi>Dublin:</hi> And about 3 weeks ago ſome Al<g ref="char:EOLhyphen"/>dermen and Conſtables came to our meeting at <hi>Dublin,</hi> and haled <hi>Tho. Loe</hi> and <hi>Sam. Clarage</hi> out of the meeting to Pri<g ref="char:EOLhyphen"/>ſon, and Captain <hi>Rich</hi> they carried away, and broke up the meeting; and the ſame day we met again, the Offi<g ref="char:EOLhyphen"/>cers came and broke up the meeting the ſecond time, and carried ſeven more Friends to Priſon, and tumbled Friends down the ſtairs, and broke down the meeting-Room
+<pb n="13" facs="tcp:58792:8"/>
+door, and preſt into the room, and broke down Timbers that kept up the floor, and plucked a woman off her knees as ſhe was praying, and made an uproar in the Citie, and the next day ſwore before the Mayor (at the Town-Hall) that we had cauſed the Tumult, when as we ſat quietly in our own hired room: and this work they make, and no Juſtice can we get, for moſt of the former ſufferings have been laid before the Councel at <hi>Dublin,</hi> and they refer us to the Judges of Aſſize, and the Judges of Aſſize reports the matter to the Councel back again, and ſo they toſs us up and down, that we cannot get ſo much as common Juſtice amongſt them. Alſo one <hi>Phi<g ref="char:EOLhyphen"/>lip Dymond</hi> of <hi>Cork</hi> had a Pack of Wool taken from him by the Mayor of <hi>Cork,</hi> upon the ſame account of not ſwearing to be a Freeman of their Corporation, though he be a Freeman by the Wars<hi>:</hi> And the Mayor of <hi>Cork</hi> ſent <hi>Richard Brockelby</hi> a Clothier in <hi>Cork,</hi> to priſon as a Traitor, for having a few Books in his houſe, that another Friend wrote againſt two or three Prieſts which had ſpo<g ref="char:EOLhyphen"/>ken againſt the truth; this the Mayor of <hi>Cork</hi> called Trea<g ref="char:EOLhyphen"/>ſon, and cauſed the mans locks to be broken open, and his Books they carried away, and the man not quite freed yet.</p>
+            <p>WE whoſe Names are here under-written do witneſs, to the Truth of theſe things, and much more cru<g ref="char:EOLhyphen"/>elties, that have been acted and brought forth by unjuſt Rulers in <hi>Ireland,</hi> againſt the people of God from time to time within theſe five yeers, and there is always a conti<g ref="char:EOLhyphen"/>nued ſuffering remains upon them, becauſe of the unjuſt<g ref="char:EOLhyphen"/>neſs of ſome in Authority, and the unjuſt ſuffering of the Lords people, is the overthrow of a Government, and the undoing of a Nation, and brings the wrath and in<g ref="char:EOLhyphen"/>dignation of God upon a people, and becauſe of theſe things will the Lord overturn and overturn till the King<g ref="char:EOLhyphen"/>dome of Chriſt be eſtabliſhed, and the Kingdoms of this World be changed, and become the Kingdoms of the Lord and of his Chriſt: Wherefore ye Rulers of the Earth now be wiſe, and fear the Lord God Almighty, who hath all power
+<pb n="14" facs="tcp:58792:9"/>
+in his hand, and pulleth down, and ſetteth up whom<g ref="char:EOLhyphen"/>ſoever he will, at his own pleaſure, his Rod is held over you all; and if you eaſe the oppreſſed, and break the bonds of the oppreſſors yoke, ye may be happy; but if you do not, the Lord will break you to pieces, and ye ſhall never be healed.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Tho. Holme.</item>
+                     <item>Richard Pool.</item>
+                     <item>James Becket.</item>
+                     <item>Richard Pierce.</item>
+                     <item>Thomas Phelps.</item>
+                     <item>Charles Collins.</item>
+                     <item>William Draper.</item>
+                     <item>Rich. Heritage.</item>
+                     <item>Sam. Adams.</item>
+                     <item>William Abbot.</item>
+                     <item>R. Picke.</item>
+                     <item>Alex. Rich.</item>
+                     <item>James Atteridg.</item>
+                     <item>Tho. Biſs.</item>
+                     <item>Tho. Wait.</item>
+                     <item>Daniel Marcy.</item>
+                     <item>Edw. Cook.</item>
+                     <item>Phil. Dymond.</item>
+                     <item>Steph. Harris.</item>
+                     <item>Will. Morris.</item>
+                     <item>Tho. Michel.</item>
+                     <item>Rob. Sandham.</item>
+                     <item>John Smith.</item>
+                     <item>Francis Randal.</item>
+                     <item>John Wren.</item>
+                     <item>Rich. Brokeby.</item>
+                     <item>Tho. Ally.</item>
+                     <item>John Brown.</item>
+                     <item>Edw. Landy.</item>
+                     <item>Robert Cook.</item>
+                     <item>Paul Morris.</item>
+                     <item>Richard Jackson</item>
+                     <item>Will. Blanch.</item>
+                     <item>Walter Palmer.</item>
+                     <item>Hen. Tatlock.</item>
+                     <item>Abrah. Nexball.</item>
+                     <item>John Redman.</item>
+                     <item>Edw. Lord.</item>
+                     <item>Thomas Moor.</item>
+                     <item>Thomas Ridge.</item>
+                     <item>William Moon.</item>
+                     <item>Jane Fade.</item>
+                     <item>John Barnes.</item>
+                     <item>John Cobb.</item>
+                     <item>Sam. Newton.</item>
+                     <item>John Moore.</item>
+                     <item>Steph. Warne.</item>
+                     <item>Matth. Perrin.</item>
+                     <item>Sam. Clarridge.</item>
+                     <item>Robert Turner.</item>
+                     <item>Will. Edmondſon.</item>
+                     <item>Joh. Edmondſon.</item>
+                     <item>Stephen Rich.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:58792:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
